@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student waiting list</string>
+    <string name="add_student_to_waiting_list">Add student to waiting list</string>
+    <string name="student_name">Student name:</string>
+    <string name="course">Course:</string>
+    <string name="add_to_waiting_list">Add to waiting list</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
